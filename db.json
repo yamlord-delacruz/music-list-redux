@@ -1,0 +1,44 @@
+{
+  "musicList": [
+    {
+      "id": "ea5c5fe6-36bc-4039-8cdf-63fed1563df1",
+      "artist": "Dreamer Isioma",
+      "album": "The Leo Sun Sets",
+      "title": "Stop Calling the Police on Me",
+      "art": "https://i.postimg.cc/htbNScv0/dreamer-isioma-the-leo-sun-sets-stop-calling-the-police-on-me.png",
+      "favorite": true
+    },
+    {
+      "id": "eaf68fef-e9b4-46fc-85b4-57bb787ba777",
+      "artist": "HONNE, Izzy Bizu",
+      "album": "Warm on a Cold Night (Deluxe)",
+      "title": "Someone That Loves You",
+      "art": "https://i.postimg.cc/tT062QdL/honne-izzy-bizu-warm-on-a-cold-night-deluxe-someone-that-loves-you.png",
+      "favorite": false
+    },
+    {
+      "id": "ecfd163a-cd63-4414-b0ae-2316c86c65c6",
+      "artist": "Last Dinosaurs",
+      "album": "Wellness",
+      "title": "Evie",
+      "art": "https://i.postimg.cc/7ZGMVV8J/last-dinosaurs-wellness-evie.png",
+      "favorite": false
+    },
+    {
+      "id": "2191a5d2-d65f-49c2-aaf1-8159f1db374a",
+      "artist": "Luna",
+      "album": "Free Somebody",
+      "title": "Free Somebody",
+      "art": "https://i.postimg.cc/nLqK8hLH/luna-free-somebody.png",
+      "favorite": true
+    },
+    {
+      "id": "18af5272-22ce-40e7-8ce4-dff3828d5261",
+      "artist": "adad",
+      "album": "adad",
+      "title": "adad",
+      "art": "adad",
+      "favorite": false
+    }
+  ]
+}
