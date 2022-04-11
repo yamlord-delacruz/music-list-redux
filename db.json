@@ -17,6 +17,14 @@
       "favorite": false
     },
     {
+      "id": "3e464b2d-f446-47a4-b24a-128f19387f98",
+      "artist": "Kennie",
+      "album": "Black Neon",
+      "title": "Clarity",
+      "art": "https://i.postimg.cc/kGJvvPq7/kennie-black-neon-clarity.png",
+      "favorite": false
+    },
+    {
       "id": "ecfd163a-cd63-4414-b0ae-2316c86c65c6",
       "artist": "Last Dinosaurs",
       "album": "Wellness",
@@ -33,11 +41,11 @@
       "favorite": true
     },
     {
-      "id": "18af5272-22ce-40e7-8ce4-dff3828d5261",
-      "artist": "adad",
-      "album": "adad",
-      "title": "adad",
-      "art": "adad",
+      "id": "4f6a0fb1-fac6-4d32-b7a7-e66e72d97ef4",
+      "artist": "Reol",
+      "album": "Q?",
+      "title": "Q?",
+      "art": "https://i.postimg.cc/KzNnzpLw/reol-q.png",
       "favorite": false
     }
   ]
